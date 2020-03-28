@@ -12,7 +12,6 @@ Layout/EndOfLine:
 
 AllCops:
   Exclude:
-   - 'walkthroughs/**/*'
    - 'spec/spec_helper.rb'
 
 Metrics/BlockLength:
